@@ -13,7 +13,7 @@ El objetivo es crear un servicio ligero que pueda ser ejecutado en cualquier dis
 
 -----
 
-### Demostración en la Terminal (Asciinema)
+### Demostración en la Terminal (Asciinema) en Termux
 
 A continuación, se muestra cómo se inicia el servidor de Flask desde la terminal. La grabación muestra el comando de ejecución y la salida que indica que el servidor está corriendo y listo para recibir conexiones.
 
